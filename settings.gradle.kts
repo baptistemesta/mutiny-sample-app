@@ -8,4 +8,3 @@
  */
 
 rootProject.name = "mutiny-sample-app"
-include("app")
